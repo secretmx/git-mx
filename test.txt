@@ -1,1 +1,1 @@
-manager modify 1 
+manager modify 1 2 
